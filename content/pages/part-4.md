@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Part 4
 uid: 00687da4-8211-8b4f-d3f8-e1855d9eaedd
 ---

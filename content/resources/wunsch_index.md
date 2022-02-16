@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-12-000-evolution-of-physical-oceanography-spring-2007/c59e3e9a4f5b7d6c013b5fc6db3b0dd0_wunsch_index.pdf
+file: /media/courses/res-12-000-evolution-of-physical-oceanography-spring-2007/c59e3e9a4f5b7d6c013b5fc6db3b0dd0_wunsch_index.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Textbook Components
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: wunsch_index.pdf
 uid: c59e3e9a-4f5b-7d6c-013b-5fc6db3b0dd0

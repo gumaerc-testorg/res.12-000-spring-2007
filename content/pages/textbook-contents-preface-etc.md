@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Textbook Components
 uid: 1e409023-7e0c-1f1f-5d44-36060a10ad5c
 ---

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-12-000-evolution-of-physical-oceanography-spring-2007/c5e79e31803755c143296874164eb084_Chapter2.pdf
+file: /media/courses/res-12-000-evolution-of-physical-oceanography-spring-2007/c5e79e31803755c143296874164eb084_Chapter2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Part 1
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Chapter2.pdf
 uid: c5e79e31-8037-55c1-4329-6874164eb084
