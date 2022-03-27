@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 2
 parent_type: SupplementalResourceSection
+parent_uid: 293166d4-7eb3-8b0d-338f-324fe69a2d53
 resourcetype: Document
 title: wunsch_8183.pdf
 uid: 52d20155-7625-87e8-0817-d1e0f2b058e7

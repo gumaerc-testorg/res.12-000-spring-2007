@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook Components
 parent_type: SupplementalResourceSection
+parent_uid: 1e409023-7e0c-1f1f-5d44-36060a10ad5c
 resourcetype: Document
 title: wunsch_acknowledgments_permissions_contributors.pdf
 uid: ab4819ab-5d42-2663-5b43-d8fd41b1cfdb

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook Components
 parent_type: SupplementalResourceSection
+parent_uid: 1e409023-7e0c-1f1f-5d44-36060a10ad5c
 resourcetype: Document
 title: Index.pdf
 uid: e1f0f34d-496a-6ca9-0f19-f42a6269c96e

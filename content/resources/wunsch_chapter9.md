@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 2
 parent_type: SupplementalResourceSection
+parent_uid: 293166d4-7eb3-8b0d-338f-324fe69a2d53
 resourcetype: Document
 title: wunsch_chapter9.pdf
 uid: 2b7b772a-bb0a-0246-e24b-c0052fb359e4

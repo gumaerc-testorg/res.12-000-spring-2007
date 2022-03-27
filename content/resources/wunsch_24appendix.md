@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 1
 parent_type: SupplementalResourceSection
+parent_uid: 03f431be-5ea1-6d28-29a0-d1d6224b6478
 resourcetype: Document
 title: wunsch_24appendix.pdf
 uid: 1c61cf9e-0776-bcec-9c53-c1f232dfc7cc

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 2
 parent_type: SupplementalResourceSection
+parent_uid: 293166d4-7eb3-8b0d-338f-324fe69a2d53
 resourcetype: Document
 title: 97Notes.pdf
 uid: 51621c76-4f0b-e621-b14c-182922a9f19a

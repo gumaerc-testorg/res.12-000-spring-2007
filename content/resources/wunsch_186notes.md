@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 4
 parent_type: SupplementalResourceSection
+parent_uid: 00687da4-8211-8b4f-d3f8-e1855d9eaedd
 resourcetype: Document
 title: wunsch_186Notes.pdf
 uid: b227a6b7-a152-7d8d-6fa3-879abd470076

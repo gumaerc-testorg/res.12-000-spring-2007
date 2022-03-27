@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 2
 parent_type: SupplementalResourceSection
+parent_uid: 293166d4-7eb3-8b0d-338f-324fe69a2d53
 resourcetype: Document
 title: Chapter10.pdf
 uid: 4aec3ff7-4ac2-5fd9-4e2a-8fc1e0dbb365

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook Components
 parent_type: SupplementalResourceSection
+parent_uid: 1e409023-7e0c-1f1f-5d44-36060a10ad5c
 resourcetype: Document
 title: Henry_Stommel.pdf
 uid: d1e56355-45bf-41fa-44ef-5878c0a91e6e

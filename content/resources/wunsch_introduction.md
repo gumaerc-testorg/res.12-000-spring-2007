@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Textbook Components
 parent_type: SupplementalResourceSection
+parent_uid: 1e409023-7e0c-1f1f-5d44-36060a10ad5c
 resourcetype: Document
 title: wunsch_introduction.pdf
 uid: 4225ad67-0c20-c996-b60a-36195337659f

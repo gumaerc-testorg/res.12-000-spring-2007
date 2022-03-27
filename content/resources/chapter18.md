@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 4
 parent_type: SupplementalResourceSection
+parent_uid: 00687da4-8211-8b4f-d3f8-e1855d9eaedd
 resourcetype: Document
 title: Chapter18.pdf
 uid: ac7cddf9-37b6-ab3b-c5a2-91db9d63bcfd

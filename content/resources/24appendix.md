@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 1
 parent_type: SupplementalResourceSection
+parent_uid: 03f431be-5ea1-6d28-29a0-d1d6224b6478
 resourcetype: Document
 title: 24Appendix.pdf
 uid: f3a87806-8f87-d015-9c2a-98e815433485

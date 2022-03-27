@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Part 3
 parent_type: SupplementalResourceSection
+parent_uid: d2e7e4c4-836b-750d-53ff-9d86279564b1
 resourcetype: Document
 title: Chapter14.pdf
 uid: 9e51e7ca-96e7-2b9c-1ea0-6eb52e62a1b5
