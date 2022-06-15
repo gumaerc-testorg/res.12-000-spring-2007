@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Part 2: Physical Processes in Oceanography.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Part 2
@@ -36,12 +37,12 @@ _8.1 Introduction, p. 236
 8.5 Mixing near the Bottom of the Ocean, pp. 258-263
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 8 - complete ([PDF - 3.5MB]({{< baseurl >}}/resources/wunsch_chapter8))  
+Chapter 8 - complete ({{% resource_link 98eed1b3-f435-22b1-614e-9de9feaec1c2 "PDF - 3.5MB" %}})  
   
 _Chapter 8 - sections:_  
   
-8.1 - 8.3 ([PDF - 1.2MB]({{< baseurl >}}/resources/wunsch_8183))  
-8.4 - 8.5 ([PDF - 2.4MB]({{< baseurl >}}/resources/wunsch_8485))
+8.1 - 8.3 ({{% resource_link 52d20155-7625-87e8-0817-d1e0f2b058e7 "PDF - 1.2MB" %}})  
+8.4 - 8.5 ({{% resource_link 199ee5df-f19d-b458-922e-8a84fa2323b5 "PDF - 2.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,12 +63,12 @@ _9.1 Introduction, pp. 264-267
 Notes, pp. 290-291
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 9 - complete ([PDF - 2.7MB]({{< baseurl >}}/resources/wunsch_chapter9))  
+Chapter 9 - complete ({{% resource_link 2b7b772a-bb0a-0246-e24b-c0052fb359e4 "PDF - 2.7MB" %}})  
   
 _Chapter 9 - sections:_  
   
-9.1 - 9.6 ([PDF - 1.4MB]({{< baseurl >}}/resources/wunsch_9196))  
-9.7 - Notes ([PDF - 1.5MB]({{< baseurl >}}/resources/wunsch_97notes))
+9.1 - 9.6 ({{% resource_link a61e8a62-23ea-7c83-8137-74d38e849aa8 "PDF - 1.4MB" %}})  
+9.7 - Notes ({{% resource_link 5fce0c52-3fea-ca8c-8acf-82b70fa54724 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,12 +85,12 @@ _10.1 Introduction, p. 292
 10.7 Tidal Studies and the Rest of Oceanography, pp. 339-341
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 10 - complete ([PDF - 4.6MB]({{< baseurl >}}/resources/wunsch_chapter10))  
+Chapter 10 - complete ({{% resource_link c8e6cf87-407b-5932-f317-bf62a0ded2ec "PDF - 4.6MB" %}})  
   
 _Chapter 10 - sections:_  
   
-10.1 - 10.4 ([PDF - 2.4MB]({{< baseurl >}}/resources/wunsch_101104))  
-10.5 - 10.7 ([PDF - 2.3MB]({{< baseurl >}}/resources/wunsch_105107))
+10.1 - 10.4 ({{% resource_link cc7dea19-64db-8756-0fd5-7d1eed9de598 "PDF - 2.4MB" %}})  
+10.5 - 10.7 ({{% resource_link 0c65016b-cfae-1bd3-a03c-b4a44eecad91 "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,12 +103,12 @@ _11.1 Introduction, pp. 342-345
 11.3 Summary and Conclusions, pp. 373-375
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 11 - complete ([PDF - 3.4MB]({{< baseurl >}}/resources/wunsch_chapter11))  
+Chapter 11 - complete ({{% resource_link 2048ed2d-154b-088b-35a7-ed50b71afa10 "PDF - 3.4MB" %}})  
   
 _Chapter 11 - sections:_  
   
-11.1 - 11.2 ([PDF - 3.3MB]({{< baseurl >}}/resources/wunsch_111112))  
-11.3 ([PDF]({{< baseurl >}}/resources/wunsch_113))
+11.1 - 11.2 ({{% resource_link 658abfb4-609b-7145-846e-5a10b90d6329 "PDF - 3.3MB" %}})  
+11.3 ({{% resource_link 709e6805-d51f-6b78-eec9-9771aca60d6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,12 +122,12 @@ _12.1 Introduction, p. 376
 12.4 Discussion, pp. 381-383
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 12 - complete ([PDF]({{< baseurl >}}/resources/wunsch_chapter12))  
+Chapter 12 - complete ({{% resource_link 43d1bd3e-0b4f-dada-bd95-1989fa14b45f "PDF" %}})  
   
 _Chapter 12 - sections:_  
   
-12.1 - 12.2 ([PDF]({{< baseurl >}}/resources/wunsch_121122))  
-12.3 - 12.4 ([PDF]({{< baseurl >}}/resources/wunsch_123124))
+12.1 - 12.2 ({{% resource_link 62b18708-1d4a-0211-706d-65ca036c5c38 "PDF" %}})  
+12.3 - 12.4 ({{% resource_link 6033b96d-c731-337b-edbe-09be6d34f359 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,12 +142,12 @@ _13.1 Introduction, p. 384
 13.5 The Amplitude of Turbulent Convection from Stability Criteria, pp. 389-394
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 13 - complete ([PDF - 1.0MB]({{< baseurl >}}/resources/wunsch_chapter13))  
+Chapter 13 - complete ({{% resource_link eeedf464-e5b1-0fb6-3390-f18dbd448e7e "PDF - 1.0MB" %}})  
   
 _Chapter 13 - sections:_  
   
-13.1 - 13.3 ([PDF]({{< baseurl >}}/resources/wunsch_131133))  
-13.4 - 13.5 ([PDF]({{< baseurl >}}/resources/wunsch_134135))
+13.1 - 13.3 ({{% resource_link 5ae4c3c9-25ba-3bf1-882f-7aa08c187846 "PDF" %}})  
+13.4 - 13.5 ({{% resource_link bd1c4a73-321b-23c9-2fee-ac2263f78340 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-12-000-evolution-of-physical-oceanography-spring-2007/43d1bd3e0b4fdadabd951989fa14b45f_wunsch_chapter12.pdf
+file: /courses/res-12-000-evolution-of-physical-oceanography-spring-2007/43d1bd3e0b4fdadabd951989fa14b45f_wunsch_chapter12.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

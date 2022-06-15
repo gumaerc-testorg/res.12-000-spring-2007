@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Part 3: Techniques of Investigation.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Part 3
@@ -35,12 +36,12 @@ _14.1 Observations and the Impact of New Instruments, pp. 396-397
 14.4 Ocean Experiment Design, pp. 429-433
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 14 - complete ([PDF - 4.8MB]({{< baseurl >}}/resources/wunsch_chapter14))  
+Chapter 14 - complete ({{% resource_link b1df24eb-1a89-bbdb-bef0-3b6255c28f7f "PDF - 4.8MB" %}})  
   
 _Chapter 14 - sections:_  
   
-14.1 - 14.2 ([PDF]({{< baseurl >}}/resources/wunsch_141142))  
-14.3 - 14.4 ([PDF - 4.0MB]({{< baseurl >}}/resources/wunsch_143144))
+14.1 - 14.2 ({{% resource_link 0b5a65a5-a3d9-a3de-6a48-ff57e2e34c99 "PDF" %}})  
+14.3 - 14.4 ({{% resource_link b59d5c5d-6523-2ccf-4e8c-b0bd794ab9ba "PDF - 4.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,12 +60,12 @@ _15.1 Introduction, p. 434
 15.9 Vertical Mixing Rates, pp. 459-461
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 15 - complete ([PDF - 2.7MB]({{< baseurl >}}/resources/wunsch_chapter15))  
+Chapter 15 - complete ({{% resource_link 02038b86-4aec-b6d5-07ba-8f57ad2f9dbd "PDF - 2.7MB" %}})  
   
 _Chapter 15 - sections:_  
   
-15.1 - 15.5 ([PDF - 1.6MB]({{< baseurl >}}/resources/wunsch_151155))  
-15.6 - 15.9 ([PDF - 1.1MB]({{< baseurl >}}/resources/wunsch_156159))
+15.1 - 15.5 ({{% resource_link 2ac7df23-9618-b952-0567-b26562012e75 "PDF - 1.6MB" %}})  
+15.6 - 15.9 ({{% resource_link 991b7c94-9214-0230-0af9-623edc18cbf2 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,12 +82,12 @@ _16.1 A Brief Philosophy of Laboratory Experiments, p. 462
 16.7 Concluding Remarks, pp. 477-480
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 16 - complete ([PDF - 2.1MB]({{< baseurl >}}/resources/wunsch_chapter16))  
+Chapter 16 - complete ({{% resource_link 3ad6b543-9a90-d7c3-94d2-629634993699 "PDF - 2.1MB" %}})  
   
 _Chapter 16 - sections:_  
   
-16.1 - 16.4 ([PDF]({{< baseurl >}}/resources/wunsch_161164))  
-16.5 - 16.7 ([PDF - 1.4MB]({{< baseurl >}}/resources/wunsch_165167))
+16.1 - 16.4 ({{% resource_link 1254acfa-5d4a-9194-e7a4-b652e3e4a0d9 "PDF" %}})  
+16.5 - 16.7 ({{% resource_link 0fb6bdb8-1a6c-21df-e663-fbb960c50f42 "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

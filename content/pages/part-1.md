@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'Part 1: General Ocean Circulation.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Part 1
@@ -38,12 +39,12 @@ _1: Deep Circulation of the World Ocean, Bruce A. Warren, pp. 6-41_
 Notes, pp. 40-41
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 1 - complete ([PDF - 4.4MB]({{< baseurl >}}/resources/wunsch_chapter1))  
+Chapter 1 - complete ({{% resource_link 41e66979-98bb-c317-e042-55f25e5b101e "PDF - 4.4MB" %}})  
   
 _Chapter 1 - sections:_  
   
-1.1 - 1.4 ([PDF - 2.6MB]({{< baseurl >}}/resources/wunsch_1114))  
-1.5 - Notes ([PDF - 1.9MB]({{< baseurl >}}/resources/wunsch_15notes))
+1.1 - 1.4 ({{% resource_link 4ce164a6-1617-d315-a28f-7102ce580258 "PDF - 2.6MB" %}})  
+1.5 - Notes ({{% resource_link 7ea2a168-6893-bc7e-52ed-aed563aa6094 "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,12 +57,12 @@ _2: The Water Masses of the World Ocean: Some Results of a Fine-Scale Census, L.
 Appendix: Census of World-Ocean Water Masses with Division by Bivariate (C x 0/00) Classes and Rank by Volume, pp. 60-69
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 2 - complete ([PDF - 3.0MB]({{< baseurl >}}/resources/wunsch_chapter2))  
+Chapter 2 - complete ({{% resource_link 42e43485-19d0-f2c6-e5d8-c2dd8d8dabe2 "PDF - 3.0MB" %}})  
   
 _Chapter 2 - sections:_  
   
-2.1 - 2.3 ([PDF - 1.9MB]({{< baseurl >}}/resources/wunsch_2123))  
-2.4 - Appendix ([PDF - 1.2MB]({{< baseurl >}}/resources/wunsch_24appendix))
+2.1 - 2.3 ({{% resource_link 36a52e9a-5942-c604-dbcd-6e28daaed99c "PDF - 1.9MB" %}})  
+2.4 - Appendix ({{% resource_link 1c61cf9e-0776-bcec-9c53-c1f232dfc7cc "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,12 +80,12 @@ _3: On the Mid-Depth Circulation of the World Ocean, Joseph L. Reid, pp. 70-111_
 3.10 Conclusion, pp. 110-111
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 3 - complete ([PDF - 5.0MB]({{< baseurl >}}/resources/wunsch_chapter3))  
+Chapter 3 - complete ({{% resource_link b202445e-e47e-174a-112a-c42c0025ae46 "PDF - 5.0MB" %}})  
   
 _Chapter 3 - sections:_  
   
-3.1 - 3.5 ([PDF - 1.5MB]({{< baseurl >}}/resources/wunsch_3135))  
-3.6 - 3.10 ([PDF - 3.6MB]({{< baseurl >}}/resources/wunsch_36310))
+3.1 - 3.5 ({{% resource_link ddb5be81-3dca-235f-ed3d-6797b203ed72 "PDF - 1.5MB" %}})  
+3.6 - 3.10 ({{% resource_link 5e1a2d22-4dcc-f334-4fbb-8c1053c62fda "PDF - 3.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,12 +99,12 @@ _4: The Gulf Stream System, N.P. Fofonoff, pp. 112-139_4.1 Introduction, p. 112
 4.6 Summary and Conclusions, pp. 137-139
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 4 - complete ([PDF - 3.5MB]({{< baseurl >}}/resources/wunsch_chapter4))  
+Chapter 4 - complete ({{% resource_link 2081dd02-626f-bb27-ec56-dc222562b3a8 "PDF - 3.5MB" %}})  
   
 _Chapter 4 - sections:_  
   
-4.1 - 4.3 ([PDF - 1.6MB]({{< baseurl >}}/resources/wunsch_4143))  
-4.4 - 4.6 ([PDF - 1.9MB]({{< baseurl >}}/resources/wunsch_4446))
+4.1 - 4.3 ({{% resource_link 2c02ce81-4c2c-b93c-7d92-0e135213777c "PDF - 1.6MB" %}})  
+4.4 - 4.6 ({{% resource_link db495080-e266-8007-9f81-c5573747cfde "PDF - 1.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,12 +125,12 @@ _5: Dynamics of Large-Scale Ocean Circulation, George Veronis, pp. 140-183_5.1 I
 Notes, p. 183
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 5 - complete ([PDF - 5.0MB]({{< baseurl >}}/resources/wunsch_chapter5))  
+Chapter 5 - complete ({{% resource_link c823f8a0-9ee8-37b7-6bc8-8fd2cab26093 "PDF - 5.0MB" %}})  
   
 _Chapter 5 - sections:_  
   
-5.1 - 5.7 ([PDF - 2.1MB]({{< baseurl >}}/resources/wunsch_5157))  
-5.8 - Notes ([PDF - 3.0MB]({{< baseurl >}}/resources/wunsch_58notes))
+5.1 - 5.7 ({{% resource_link 4fb30a08-2f63-7ca8-7b18-cafd2e8f229e "PDF - 2.1MB" %}})  
+5.8 - Notes ({{% resource_link 9b3a5556-5b04-f9e2-ead0-841463de2492 "PDF - 3.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,12 +144,12 @@ _6.1 Introduction, p. 184
 6.4 Discussion, pp. 195-197
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 6 - complete ([PDF - 1.5MB]({{< baseurl >}}/resources/wunsch_chapter6))  
+Chapter 6 - complete ({{% resource_link 7f31bad7-af3b-f013-5dd3-2b2cb39f7309 "PDF - 1.5MB" %}})  
   
 _Chapter 6 - sections:_  
   
-6.1 - 6.2 ([PDF]({{< baseurl >}}/resources/wunsch_6162))  
-6.3 - 6.4 ([PDF - 1.1MB]({{< baseurl >}}/resources/wunsch_6364))
+6.1 - 6.2 ({{% resource_link 47e97071-a387-ad22-8a60-be5262c513ad "PDF" %}})  
+6.3 - 6.4 ({{% resource_link 52926490-d6f2-c48c-c616-090ad2954f50 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,12 +171,12 @@ Notes, pp. 233-234
 {{< tdopen >}}
 
 
-Chapter 7 - complete ([PDF - 4.4 MB]({{< baseurl >}}/resources/wunsch_chapter7))
+Chapter 7 - complete ({{% resource_link 6ab42a55-551a-5143-9675-5040a53de529 "PDF - 4.4 MB" %}})
 
 Chapter 7 - sections:
 
-7.1 - 7.3 ([PDF - 4.1 MB]({{< baseurl >}}/resources/wunsch_7173))  
-Appendix - Notes ([PDF]({{< baseurl >}}/resources/wunsch_appendixnotes7))
+7.1 - 7.3 ({{% resource_link 0adb0bf8-a4d0-46bd-014e-24f102fa34ba "PDF - 4.1 MB" %}})  
+Appendix - Notes ({{% resource_link 12156374-1f00-c7dc-1bb2-e9603b242950 "PDF" %}})
 
 
 {{< tdclose >}}
