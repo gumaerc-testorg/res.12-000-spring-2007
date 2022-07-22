@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-12-000-evolution-of-physical-oceanography-spring-2007/b202445ee47e174a112ac42c0025ae46_wunsch_chapter3.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Part 1
 parent_type: SupplementalResourceSection
