@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-12-000-evolution-of-physical-oceanography-spring-2007/e74324d64435f4f492bc12dbd207f151_wunsch_chapter7.pdf
+file_size: 4539121
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
