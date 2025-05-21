@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-12-000-evolution-of-physical-oceanography-spring-2007/2c02ce814c2cb93c7d920e135213777c_wunsch_4143.pdf
+file: /courses/res-12-000-evolution-of-physical-oceanography-spring-2007/2c02ce814c2cb93c7d920e135213777c_wunsch_4143.pdf
 file_size: 1635475
 file_type: application/pdf
 learning_resource_types: []
